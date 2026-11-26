@@ -1,10 +1,7 @@
-float getal = 56.234543433;
+float getal = 56.2343235325;
 
 getal = getal * 10;
-println(getal);
-
 getal = (int) getal;
-println(getal);
-
 getal = getal / 10.0;
+
 println(getal);
